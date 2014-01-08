@@ -1,0 +1,4 @@
+training-capistrano
+===================
+
+Capistrano Traning
